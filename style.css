@@ -1,0 +1,30 @@
+body {
+    font-family: sans-serif;
+       background-color: rgb(255, 216, 254)
+
+}
+h2{
+   color: rgb(255, 255, 255);
+   background-color: rgb(255, 141, 230);
+   text-align: center;
+   border: rgb(70, 0, 92);
+   border-radius: 10px;
+   }
+h2:hover{
+     color: rgb(255, 184, 237);
+     background-color: rgb(255, 255, 255)
+   }
+.catalog{
+    display: flex;
+   
+flex-wrap: wrap;
+
+
+}
+img{
+    border: 4px double black;
+}
+.qq{
+     padding: 10px;
+    margin: 15px;
+}
